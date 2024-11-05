@@ -1,0 +1,26 @@
+# Arquivos binários gerados
+*.o
+*.out
+mercado_frutas
+
+# Diretório de compilação
+build/
+
+# Arquivos de logs e outros arquivos temporários
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Arquivos de editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivo de vendas
+data/vendas.txt
