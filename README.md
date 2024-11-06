@@ -42,7 +42,7 @@ mercado_frutas/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu_usuario/mercado_frutas.git
+   git clone https://github.com/fbomateus/Mercado-de-Frutas.git
    cd mercado_frutas
    ```
 
